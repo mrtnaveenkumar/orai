@@ -1,0 +1,37 @@
+1:"$Sreact.fragment"
+2:"/orai/_next/static/chunks/0umf92h1sb77c.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+9:"/orai/_next/static/chunks/1199m1g8felga.js"
+a:I[22016,["$9"],""]
+b:I[5500,["$9"],"Image"]
+c:"LanguageSwitcher"
+d:I[80157,["$9"],"$c"]
+16:"ViewportBoundary"
+17:I[97367,["$2"],"$16"]
+18:"MetadataBoundary"
+19:I[97367,["$2"],"$18"]
+1a:"$Sreact.suspense"
+1b:I[27201,["$2"],"IconMark"]
+:HL["/orai/_next/static/chunks/0ypba0dw-kmkx.css","style"]
+6:X
+6:C
+7:X
+11:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","section",null,{"className":"space-y-6 pt-4","children":[["$","$Lb",null,{"src":{"src":"/orai/_next/static/media/orai-logo.39o5vbfwsjlo0.png","width":380,"height":480,"blurWidth":6,"blurHeight":8,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAICAYAAADaxo44AAAA00lEQVR42gHIADf/AAACBAcBGztdAjdzpAE6d6ABGDFBAwgECQABDyZKAR9KiAETK0MBFCw/AjRmnxNMMnEAAhhBjAENIkYBECZMBhonSwk1SYsKRzl6AAETOH4CEzd3BRkXNBhbMokQZEamBDEiTgAABRAjAh5ImgQ9UaUHX0yxBEo1fgAJBg4AAAwaJQEcNUoBIidNASAeQgELCxQLIBAtAAEZPG0BGjlRASJLfAEbPmgBIUhvBi9JhAABES5mARc4cAEWNmYBEzBeAR1FfAEcQ361BSNUa9d66AAAAABJRU5ErkJggg=="},"alt":"Orai","priority":true,"className":"mx-auto h-auto w-40"}],"$L12","$L13"]}],null,"$L14"]}],"p":"$@15","v":null,"s":"$7"}}]]
+f:[["children",{"s":"about","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@10","v":"$6","s":"$7"},"c":"$Q11"}]]
+8:[["children",{"s":{"n":"lang","t":"d","k":"en","s":[]},"h":65648,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/orai/_next/static/chunks/0ypba0dw-kmkx.css","precedence":"next"}],["$","script","script-0",{"src":"/orai/_next/static/chunks/1199m1g8felga.js","async":true}]],["$","html",null,{"lang":"en","className":"j1zVoW_variable UnYSyq_variable h-full antialiased","children":["$","body",null,{"className":"flex min-h-full flex-col","children":["$","div",null,{"className":"mx-auto flex w-full max-w-md flex-1 flex-col bg-background sm:border-x sm:border-black/10 sm:dark:border-white/10","children":[["$","header",null,{"className":"sticky top-0 z-20 border-b border-black/10 bg-background/90 pt-[env(safe-area-inset-top)] backdrop-blur dark:border-white/10","children":["$","nav",null,{"className":"flex h-14 items-center gap-2 px-4","children":[["$","$La",null,{"href":"/en/","className":"flex items-center gap-2 text-lg font-bold text-blue-800 dark:text-blue-300","children":[["$","$Lb",null,{"src":{"src":"/orai/_next/static/media/orai-mark.1tz09k9f4v_xx.png","width":128,"height":128,"blurWidth":8,"blurHeight":8,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAA9UlEQVR42kWPT0vCYACH3y/XJ4hFYJCnjt6KoA4dhf6xCBZFEGkIRUauoi4JoTSMoPUPtJWIuyi52vbWSnFPb0L0+x2fy/OIBbUwDOWb7PLQDGm8RvT6MVLtl4lAwfKdS3K+SGLpEm2xwsqxgx9FeIEnxXOzgzaV49R64fy6Ts31SaSLzB6a2J1HRLZwxcTcLvLjG33ngpJdZ920GDMyPPkuYvvAQktt8h58Ur6vkbOPmDYNUmYG7ytEOI02Q+M6M/oJ6bMCybzO8P4ye9UKsfpA8rbqMmnkGVndYDS7xtZNiajXHZSIv8xAWTvtFq3Apx//Z/4AupbO6rIzXsQAAAAASUVORK5CYII="},"alt":"","width":36,"height":36,"priority":true,"className":"size-9"}],"Orai"]}],["$","div",null,{"className":"ms-auto","children":["$","$Ld",null,{"current":"en","label":"Language"}]}]]}]}],["$","main",null,{"className":"flex-1 px-4 pt-4 pb-10","children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]}],["$","footer",null,{"className":"px-4 pb-[max(1.5rem,env(safe-area-inset-bottom))] text-xs opacity-60","children":["© ",2026," ","Orai",". ","All rights reserved."]}]]}]}]}]]}],"p":"$@e","v":null,"s":"$7"},"c":"$Qf"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]]}],"p":"$@5","v":"$6","s":"$7"},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#ffffff","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0a0a0a","media":"(prefers-color-scheme: dark)"}]]}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"About · Orai"}],["$","meta","1",{"name":"description","content":"Orai (hora) timings, Rahu Kalam, Yamagandam and Kuligai"}],["$","link","2",{"rel":"icon","href":"/orai/favicon.ico?favicon.23jwl8jifthxk.ico","sizes":"64x64","type":"image/x-icon"}],["$","link","3",{"rel":"icon","href":"/orai/icon.png?icon.17dg6wi3youab.png","sizes":"512x512","type":"image/png"}],["$","link","4",{"rel":"apple-touch-icon","href":"/orai/apple-icon.png?apple-icon.0dwvs4f5jtb2p.png","sizes":"180x180","type":"image/png"}],["$","$L1b","5",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1c","v":null,"s":"$7"}},"a":"$@1d","u":"$@1e","b":"mjHFOAoU60QMOjVxuzk0Q"}
+1f:I[97367,["$2"],"OutletBoundary"]
+12:["$","h1",null,{"className":"text-2xl font-bold","children":"About"}]
+13:["$","p",null,{"className":"text-lg","children":"Orai shows the orai (hora) timings for every weekday, Rahu Kalam, Yamagandam and Kuligai, and each planet's nature, suitable activities and friendships — so you can start important things at the right time."}]
+14:["$","$L1f",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]
+7:300
+20:null
+1e:true
+7:C
+1d:0
+10:"$undefined"
+e:"$undefined"
+5:"$undefined"
+1c:"$undefined"
+15:"$undefined"

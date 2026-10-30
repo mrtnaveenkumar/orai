@@ -1,0 +1,9 @@
+:HL["/orai/_next/static/chunks/0ypba0dw-kmkx.css","style"]
+:HL["/orai/_next/static/media/noto_sans_tamil_latin_wght_normal-s.p.1_kuxy59piuki.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/orai/_next/static/media/noto_sans_tamil_tamil_wght_normal-s.p.0_cnu2rpdzr9y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/orai/_next/static/media/noto_serif_tamil_latin_wght_normal-s.p.3ni262de17d65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/orai/_next/static/media/noto_serif_tamil_tamil_wght_normal-s.p.0hemajwpic67p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":"about","h":96,"c":"$Q3"}]]
+1:[["children",{"s":{"n":"lang","t":"d","k":"en","s":[]},"h":65648,"c":"$Q2"}]]
+0:{"b":"mjHFOAoU60QMOjVxuzk0Q","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
